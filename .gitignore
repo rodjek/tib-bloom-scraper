@@ -1,0 +1,6 @@
+/books/
+/bloom_book_list.csv
+/bloom_failures.csv
+/poetry.lock
+*.pyc
+/__pycache__/
